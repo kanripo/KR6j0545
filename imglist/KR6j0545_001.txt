@@ -1,0 +1,5 @@
+001-0466a05	TKD 13-1251c	buddhist/K-koreana/13-tif/1200-1299/13_1251_C.TIF
+001-0466a24	TKD 13-1252a	buddhist/K-koreana/13-tif/1200-1299/13_1252_A.TIF
+001-0466b15	TKD 13-1252b	buddhist/K-koreana/13-tif/1200-1299/13_1252_B.TIF
+001-0466a00	T 001-0466a	buddhist/T-taisho/T21/04/T21-0466.png
+001-0466b00	T 001-0466b	buddhist/T-taisho/T21/04/T21-0466.png
